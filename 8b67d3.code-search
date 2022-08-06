@@ -1,0 +1,1357 @@
+# Query: 8b67d3
+
+1332 results - 11 files
+
+charts.html:
+   915:               widget_color: "#8b67d3",
+   960:                 icon_color: "#8b67d3",
+  1000:                 icon_color: "#8b67d3",
+  1040:                 icon_color: "#8b67d3",
+  1795:         color: #8b67d3;
+  2097:         color: #8b67d3;
+  2101:         color: #8b67d3;
+  2105:         color: #8b67d3;
+  2109:         color: #8b67d3;
+  2113:         color: #8b67d3;
+  3085:                                                         border-color: #8b67d3;
+  3093:                                                         border-color: #8b67d3;
+  3128:                                                       color: #8b67d3 !important;
+  3130:                                                       border-color: #8b67d3;
+  3131:                                                       --border-color: #8b67d3;
+  3139:                                                       background: #8b67d3;
+  3200:                                                         border-color: #8b67d3;
+  3208:                                                         border-color: #8b67d3;
+  3232:                                                               --hover-color: #8b67d3;
+  3281:                                                               --hover-color: #8b67d3;
+  3329:                                                       color: #8b67d3 !important;
+  3331:                                                       border-color: #8b67d3;
+  3332:                                                       --border-color: #8b67d3;
+  3340:                                                       background: #8b67d3;
+  3568:                                                         border-color: #8b67d3;
+  3576:                                                         border-color: #8b67d3;
+  3607:                                                       color: #8b67d3 !important;
+  3609:                                                       border-color: #8b67d3;
+  3679:                                                         border-color: #8b67d3;
+  3687:                                                         border-color: #8b67d3;
+  3711:                                                               --hover-color: #8b67d3;
+  3769:                                                               --hover-color: #8b67d3;
+  3817:                                                       color: #8b67d3 !important;
+  3819:                                                       border-color: #8b67d3;
+  3820:                                                       --border-color: #8b67d3;
+  3828:                                                       background: #8b67d3;
+  3903:                                                                 border-color: #8b67d3;
+  3911:                                                                 border-color: #8b67d3;
+  4042:                                                         border-color: #8b67d3;
+  4050:                                                         border-color: #8b67d3;
+  4081:                                                       color: #8b67d3 !important;
+  4083:                                                       border-color: #8b67d3;
+  4084:                                                       --border-color: #8b67d3;
+  4092:                                                       background: #8b67d3;
+  4153:                                                         border-color: #8b67d3;
+  4161:                                                         border-color: #8b67d3;
+  4185:                                                               --hover-color: #8b67d3;
+  4232:                                                               --hover-color: #8b67d3;
+  4384:                                                         border-color: #8b67d3;
+  4392:                                                         border-color: #8b67d3;
+  4496:                                                               color: #8b67d3 !important;
+  4498:                                                               border-color: #8b67d3;
+  4499:                                                               --border-color: #8b67d3;
+  4507:                                                               background: #8b67d3;
+  4545:                                                               color: #8b67d3 !important;
+  4547:                                                               border-color: #8b67d3;
+  4548:                                                               --border-color: #8b67d3;
+  4556:                                                               background: #8b67d3;
+  4709:                                                         border-color: #8b67d3;
+  4717:                                                         border-color: #8b67d3;
+  4752:                                                       color: #8b67d3 !important;
+  4754:                                                       border-color: #8b67d3;
+  4755:                                                       --border-color: #8b67d3;
+  4763:                                                       background: #8b67d3;
+  4858:                                                               --hover-color: #8b67d3;
+  4944:                                                               --hover-color: #8b67d3;
+  5030:                                                               --hover-color: #8b67d3;
+  5233:                                                         border-color: #8b67d3;
+  5241:                                                         border-color: #8b67d3;
+  5276:                                                       color: #8b67d3 !important;
+  5278:                                                       border-color: #8b67d3;
+  5279:                                                       --border-color: #8b67d3;
+  5287:                                                       background: #8b67d3;
+  5348:                                                         border-color: #8b67d3;
+  5356:                                                         border-color: #8b67d3;
+  5380:                                                               --hover-color: #8b67d3;
+  5429:                                                               --hover-color: #8b67d3;
+  5477:                                                       color: #8b67d3 !important;
+  5479:                                                       border-color: #8b67d3;
+  5480:                                                       --border-color: #8b67d3;
+  5488:                                                       background: #8b67d3;
+  5713:                                                         border-color: #8b67d3;
+  5721:                                                         border-color: #8b67d3;
+  5752:                                                       color: #8b67d3 !important;
+  5754:                                                       border-color: #8b67d3;
+  5755:                                                       --border-color: #8b67d3;
+  5763:                                                       background: #8b67d3;
+  5824:                                                         border-color: #8b67d3;
+  5832:                                                         border-color: #8b67d3;
+  5856:                                                               --hover-color: #8b67d3;
+  5914:                                                               --hover-color: #8b67d3;
+  5962:                                                       color: #8b67d3 !important;
+  5964:                                                       border-color: #8b67d3;
+  5965:                                                       --border-color: #8b67d3;
+  5973:                                                       background: #8b67d3;
+  6048:                                                                 border-color: #8b67d3;
+  6056:                                                                 border-color: #8b67d3;
+  6185:                                                         border-color: #8b67d3;
+  6193:                                                         border-color: #8b67d3;
+  6224:                                                       color: #8b67d3 !important;
+  6226:                                                       border-color: #8b67d3;
+  6227:                                                       --border-color: #8b67d3;
+  6235:                                                       background: #8b67d3;
+  6296:                                                         border-color: #8b67d3;
+  6304:                                                         border-color: #8b67d3;
+  6328:                                                               --hover-color: #8b67d3;
+  6375:                                                               --hover-color: #8b67d3;
+  6525:                                                         border-color: #8b67d3;
+  6533:                                                         border-color: #8b67d3;
+  6637:                                                               color: #8b67d3 !important;
+  6639:                                                               border-color: #8b67d3;
+  6640:                                                               --border-color: #8b67d3;
+  6648:                                                               background: #8b67d3;
+  6686:                                                               color: #8b67d3 !important;
+  6688:                                                               border-color: #8b67d3;
+  6689:                                                               --border-color: #8b67d3;
+  6697:                                                               background: #8b67d3;
+  6848:                                                         border-color: #8b67d3;
+  6856:                                                         border-color: #8b67d3;
+  6891:                                                       color: #8b67d3 !important;
+  6893:                                                       border-color: #8b67d3;
+  6894:                                                       --border-color: #8b67d3;
+  6902:                                                       background: #8b67d3;
+  6997:                                                               --hover-color: #8b67d3;
+  7083:                                                               --hover-color: #8b67d3;
+  7169:                                                               --hover-color: #8b67d3;
+  7452:                                           style="color: #8b67d3"
+  7499:                                             style="color: #8b67d3"
+  7572:                                         data-bg="#8b67d3"
+  7573:                                         data-hover-bg="#8b67d3"
+  7587:                                           background: #8b67d3;
+  7593:                                           style="background-color: #8b67d3"
+  7623:                                         data-bg="#8b67d3"
+  7624:                                         data-hover-bg="#8b67d3"
+  7638:                                           background: #8b67d3;
+  7644:                                           style="background-color: #8b67d3"
+  7674:                                         data-bg="#8b67d3"
+  7675:                                         data-hover-bg="#8b67d3"
+  7689:                                           background: #8b67d3;
+  7695:                                           style="background-color: #8b67d3"
+  7725:                                         data-bg="#8b67d3"
+  7726:                                         data-hover-bg="#8b67d3"
+  7740:                                           background: #8b67d3;
+  7746:                                           style="background-color: #8b67d3"
+  7776:                                         data-bg="#8b67d3"
+  7777:                                         data-hover-bg="#8b67d3"
+  7791:                                           background: #8b67d3;
+  7797:                                           style="background-color: #8b67d3"
+  8598:                                 --hover-color: #8b67d3;
+  8662:                                 --hover-color: #8b67d3;
+  8716:                                 --hover-color: #8b67d3;
+  8774:                                         --border-color: #8b67d3;
+  8782:                                         background: #8b67d3;
+  8820:                                         --border-color: #8b67d3;
+  8828:                                         background: #8b67d3;
+  8920:                                         --hover-color: #8b67d3;
+  8979:                                         --hover-color: #8b67d3;
+  9042:                                         --border-color: #8b67d3;
+  9050:                                         background: #8b67d3;
+  9088:                                         --border-color: #8b67d3;
+  9096:                                         background: #8b67d3;
+  9125:                     data-bg-color="#8b67d3"
+
+contact.html:
+   907:               widget_color: "#8b67d3",
+   952:                 icon_color: "#8b67d3",
+   992:                 icon_color: "#8b67d3",
+  1032:                 icon_color: "#8b67d3",
+  1787:         color: #8b67d3;
+  2089:         color: #8b67d3;
+  2093:         color: #8b67d3;
+  2097:         color: #8b67d3;
+  2101:         color: #8b67d3;
+  2105:         color: #8b67d3;
+  2355:         background-color: #8b67d3 !important;
+  3033:                                                         border-color: #8b67d3;
+  3041:                                                         border-color: #8b67d3;
+  3076:                                                       color: #8b67d3 !important;
+  3078:                                                       border-color: #8b67d3;
+  3079:                                                       --border-color: #8b67d3;
+  3087:                                                       background: #8b67d3;
+  3148:                                                         border-color: #8b67d3;
+  3156:                                                         border-color: #8b67d3;
+  3180:                                                               --hover-color: #8b67d3;
+  3229:                                                               --hover-color: #8b67d3;
+  3277:                                                       color: #8b67d3 !important;
+  3279:                                                       border-color: #8b67d3;
+  3280:                                                       --border-color: #8b67d3;
+  3288:                                                       background: #8b67d3;
+  3518:                                                         border-color: #8b67d3;
+  3526:                                                         border-color: #8b67d3;
+  3557:                                                       color: #8b67d3 !important;
+  3559:                                                       border-color: #8b67d3;
+  3560:                                                       --border-color: #8b67d3;
+  3568:                                                       background: #8b67d3;
+  3629:                                                         border-color: #8b67d3;
+  3637:                                                         border-color: #8b67d3;
+  3661:                                                               --hover-color: #8b67d3;
+  3719:                                                               --hover-color: #8b67d3;
+  3767:                                                       color: #8b67d3 !important;
+  3769:                                                       border-color: #8b67d3;
+  3770:                                                       --border-color: #8b67d3;
+  3778:                                                       background: #8b67d3;
+  3853:                                                                 border-color: #8b67d3;
+  3861:                                                                 border-color: #8b67d3;
+  3994:                                                         border-color: #8b67d3;
+  4002:                                                         border-color: #8b67d3;
+  4033:                                                       color: #8b67d3 !important;
+  4035:                                                       border-color: #8b67d3;
+  4036:                                                       --border-color: #8b67d3;
+  4044:                                                       background: #8b67d3;
+  4105:                                                         border-color: #8b67d3;
+  4113:                                                         border-color: #8b67d3;
+  4137:                                                               --hover-color: #8b67d3;
+  4184:                                                               --hover-color: #8b67d3;
+  4337:                                                         border-color: #8b67d3;
+  4345:                                                         border-color: #8b67d3;
+  4449:                                                               color: #8b67d3 !important;
+  4451:                                                               border-color: #8b67d3;
+  4452:                                                               --border-color: #8b67d3;
+  4460:                                                               background: #8b67d3;
+  4498:                                                               color: #8b67d3 !important;
+  4500:                                                               border-color: #8b67d3;
+  4501:                                                               --border-color: #8b67d3;
+  4509:                                                               background: #8b67d3;
+  4663:                                                         border-color: #8b67d3;
+  4671:                                                         border-color: #8b67d3;
+  4706:                                                       color: #8b67d3 !important;
+  4708:                                                       border-color: #8b67d3;
+  4709:                                                       --border-color: #8b67d3;
+  4717:                                                       background: #8b67d3;
+  4814:                                                               --hover-color: #8b67d3;
+  4902:                                                               --hover-color: #8b67d3;
+  4990:                                                               --hover-color: #8b67d3;
+  5193:                                                         border-color: #8b67d3;
+  5201:                                                         border-color: #8b67d3;
+  5236:                                                       color: #8b67d3 !important;
+  5238:                                                       border-color: #8b67d3;
+  5239:                                                       --border-color: #8b67d3;
+  5247:                                                       background: #8b67d3;
+  5308:                                                         border-color: #8b67d3;
+  5316:                                                         border-color: #8b67d3;
+  5340:                                                               --hover-color: #8b67d3;
+  5389:                                                               --hover-color: #8b67d3;
+  5437:                                                       color: #8b67d3 !important;
+  5439:                                                       border-color: #8b67d3;
+  5440:                                                       --border-color: #8b67d3;
+  5448:                                                       background: #8b67d3;
+  5697:                                                         border-color: #8b67d3;
+  5705:                                                         border-color: #8b67d3;
+  5736:                                                       color: #8b67d3 !important;
+  5738:                                                       border-color: #8b67d3;
+  5739:                                                       --border-color: #8b67d3;
+  5747:                                                       background: #8b67d3;
+  5808:                                                         border-color: #8b67d3;
+  5816:                                                         border-color: #8b67d3;
+  5840:                                                               --hover-color: #8b67d3;
+  5898:                                                               --hover-color: #8b67d3;
+  5946:                                                       color: #8b67d3 !important;
+  5948:                                                       border-color: #8b67d3;
+  5949:                                                       --border-color: #8b67d3;
+  5957:                                                       background: #8b67d3;
+  6032:                                                                 border-color: #8b67d3;
+  6040:                                                                 border-color: #8b67d3;
+  6171:                                                         border-color: #8b67d3;
+  6179:                                                         border-color: #8b67d3;
+  6210:                                                       color: #8b67d3 !important;
+  6212:                                                       border-color: #8b67d3;
+  6213:                                                       --border-color: #8b67d3;
+  6221:                                                       background: #8b67d3;
+  6282:                                                         border-color: #8b67d3;
+  6290:                                                         border-color: #8b67d3;
+  6314:                                                               --hover-color: #8b67d3;
+  6361:                                                               --hover-color: #8b67d3;
+  6524:                                                         border-color: #8b67d3;
+  6532:                                                         border-color: #8b67d3;
+  6636:                                                               color: #8b67d3 !important;
+  6638:                                                               border-color: #8b67d3;
+  6639:                                                               --border-color: #8b67d3;
+  6647:                                                               background: #8b67d3;
+  6685:                                                               color: #8b67d3 !important;
+  6687:                                                               border-color: #8b67d3;
+  6688:                                                               --border-color: #8b67d3;
+  6696:                                                               background: #8b67d3;
+  6857:                                                         border-color: #8b67d3;
+  6865:                                                         border-color: #8b67d3;
+  6900:                                                       color: #8b67d3 !important;
+  6902:                                                       border-color: #8b67d3;
+  6903:                                                       --border-color: #8b67d3;
+  6911:                                                       background: #8b67d3;
+  7008:                                                               --hover-color: #8b67d3;
+  7096:                                                               --hover-color: #8b67d3;
+  7184:                                                               --hover-color: #8b67d3;
+  7430:                                 ><span class="text-span" style="color: #8b67d3"
+  7441:                                 <span style="color: #8b67d3"
+  8414:                                 --hover-color: #8b67d3;
+  8478:                                 --hover-color: #8b67d3;
+  8534:                                 --hover-color: #8b67d3;
+  8592:                                         --border-color: #8b67d3;
+  8600:                                         background: #8b67d3;
+  8638:                                         --border-color: #8b67d3;
+  8646:                                         background: #8b67d3;
+  8738:                                         --hover-color: #8b67d3;
+  8797:                                         --hover-color: #8b67d3;
+  8860:                                         --border-color: #8b67d3;
+  8868:                                         background: #8b67d3;
+  8906:                                         --border-color: #8b67d3;
+  8914:                                         background: #8b67d3;
+  8943:                     data-bg-color="#8b67d3"
+
+defiDAO.html:
+   914:               widget_color: "#8b67d3",
+   959:                 icon_color: "#8b67d3",
+   999:                 icon_color: "#8b67d3",
+  1039:                 icon_color: "#8b67d3",
+  1794:         color: #8b67d3;
+  2096:         color: #8b67d3;
+  2100:         color: #8b67d3;
+  2104:         color: #8b67d3;
+  2108:         color: #8b67d3;
+  2112:         color: #8b67d3;
+  3050:                                                         border-color: #8b67d3;
+  3058:                                                         border-color: #8b67d3;
+  3093:                                                       color: #8b67d3 !important;
+  3095:                                                       border-color: #8b67d3;
+  3096:                                                       --border-color: #8b67d3;
+  3104:                                                       background: #8b67d3;
+  3165:                                                         border-color: #8b67d3;
+  3173:                                                         border-color: #8b67d3;
+  3197:                                                               --hover-color: #8b67d3;
+  3246:                                                               --hover-color: #8b67d3;
+  3294:                                                       color: #8b67d3 !important;
+  3296:                                                       border-color: #8b67d3;
+  3297:                                                       --border-color: #8b67d3;
+  3305:                                                       background: #8b67d3;
+  3556:                                                         border-color: #8b67d3;
+  3564:                                                         border-color: #8b67d3;
+  3595:                                                       color: #8b67d3 !important;
+  3597:                                                       border-color: #8b67d3;
+  3598:                                                       --border-color: #8b67d3;
+  3606:                                                       background: #8b67d3;
+  3667:                                                         border-color: #8b67d3;
+  3675:                                                         border-color: #8b67d3;
+  3699:                                                               --hover-color: #8b67d3;
+  3757:                                                               --hover-color: #8b67d3;
+  3805:                                                       color: #8b67d3 !important;
+  3807:                                                       border-color: #8b67d3;
+  3808:                                                       --border-color: #8b67d3;
+  3816:                                                       background: #8b67d3;
+  3891:                                                                 border-color: #8b67d3;
+  3899:                                                                 border-color: #8b67d3;
+  4032:                                                         border-color: #8b67d3;
+  4040:                                                         border-color: #8b67d3;
+  4071:                                                       color: #8b67d3 !important;
+  4073:                                                       border-color: #8b67d3;
+  4074:                                                       --border-color: #8b67d3;
+  4082:                                                       background: #8b67d3;
+  4143:                                                         border-color: #8b67d3;
+  4151:                                                         border-color: #8b67d3;
+  4175:                                                               --hover-color: #8b67d3;
+  4222:                                                               --hover-color: #8b67d3;
+  4387:                                                         border-color: #8b67d3;
+  4395:                                                         border-color: #8b67d3;
+  4499:                                                               color: #8b67d3 !important;
+  4501:                                                               border-color: #8b67d3;
+  4502:                                                               --border-color: #8b67d3;
+  4510:                                                               background: #8b67d3;
+  4548:                                                               color: #8b67d3 !important;
+  4550:                                                               border-color: #8b67d3;
+  4551:                                                               --border-color: #8b67d3;
+  4559:                                                               background: #8b67d3;
+  4722:                                                         border-color: #8b67d3;
+  4730:                                                         border-color: #8b67d3;
+  4765:                                                       color: #8b67d3 !important;
+  4767:                                                       border-color: #8b67d3;
+  4768:                                                       --border-color: #8b67d3;
+  4776:                                                       background: #8b67d3;
+  4873:                                                               --hover-color: #8b67d3;
+  4961:                                                               --hover-color: #8b67d3;
+  5049:                                                               --hover-color: #8b67d3;
+  5252:                                                         border-color: #8b67d3;
+  5260:                                                         border-color: #8b67d3;
+  5295:                                                       color: #8b67d3 !important;
+  5297:                                                       border-color: #8b67d3;
+  5298:                                                       --border-color: #8b67d3;
+  5306:                                                       background: #8b67d3;
+  5367:                                                         border-color: #8b67d3;
+  5375:                                                         border-color: #8b67d3;
+  5399:                                                               --hover-color: #8b67d3;
+  5448:                                                               --hover-color: #8b67d3;
+  5496:                                                       color: #8b67d3 !important;
+  5498:                                                       border-color: #8b67d3;
+  5499:                                                       --border-color: #8b67d3;
+  5507:                                                       background: #8b67d3;
+  5756:                                                         border-color: #8b67d3;
+  5764:                                                         border-color: #8b67d3;
+  5795:                                                       color: #8b67d3 !important;
+  5797:                                                       border-color: #8b67d3;
+  5798:                                                       --border-color: #8b67d3;
+  5806:                                                       background: #8b67d3;
+  5867:                                                         border-color: #8b67d3;
+  5875:                                                         border-color: #8b67d3;
+  5899:                                                               --hover-color: #8b67d3;
+  5957:                                                               --hover-color: #8b67d3;
+  6005:                                                       color: #8b67d3 !important;
+  6007:                                                       border-color: #8b67d3;
+  6008:                                                       --border-color: #8b67d3;
+  6016:                                                       background: #8b67d3;
+  6091:                                                                 border-color: #8b67d3;
+  6099:                                                                 border-color: #8b67d3;
+  6230:                                                         border-color: #8b67d3;
+  6238:                                                         border-color: #8b67d3;
+  6269:                                                       color: #8b67d3 !important;
+  6271:                                                       border-color: #8b67d3;
+  6272:                                                       --border-color: #8b67d3;
+  6280:                                                       background: #8b67d3;
+  6341:                                                         border-color: #8b67d3;
+  6349:                                                         border-color: #8b67d3;
+  6373:                                                               --hover-color: #8b67d3;
+  6420:                                                               --hover-color: #8b67d3;
+  6583:                                                         border-color: #8b67d3;
+  6591:                                                         border-color: #8b67d3;
+  6695:                                                               color: #8b67d3 !important;
+  6697:                                                               border-color: #8b67d3;
+  6698:                                                               --border-color: #8b67d3;
+  6706:                                                               background: #8b67d3;
+  6744:                                                               color: #8b67d3 !important;
+  6746:                                                               border-color: #8b67d3;
+  6747:                                                               --border-color: #8b67d3;
+  6755:                                                               background: #8b67d3;
+  6916:                                                         border-color: #8b67d3;
+  6924:                                                         border-color: #8b67d3;
+  6959:                                                       color: #8b67d3 !important;
+  6961:                                                       border-color: #8b67d3;
+  6962:                                                       --border-color: #8b67d3;
+  6970:                                                       background: #8b67d3;
+  7067:                                                               --hover-color: #8b67d3;
+  7155:                                                               --hover-color: #8b67d3;
+  7243:                                                               --hover-color: #8b67d3;
+  7570:                                         data-bg="#8b67d3"
+  7571:                                         data-hover-bg="#8b67d3"
+  7585:                                           background: #8b67d3;
+  7591:                                           style="background-color: #8b67d3"
+  7674:                                   ><span style="color: #8b67d3"
+  7796:                                         <span style="color: #8b67d3">OUR</span
+  7798:                                         <span style="color: #8b67d3"
+  7801:                                         <span style="color: #8b67d3"
+  7830:                                         data-bg="#8b67d3"
+  7831:                                         data-hover-bg="#8b67d3"
+  7845:                                           background: #8b67d3;
+  7851:                                           style="background-color: #8b67d3"
+  8727:                                 --hover-color: #8b67d3;
+  8791:                                 --hover-color: #8b67d3;
+  8847:                                 --hover-color: #8b67d3;
+  8906:                                         --border-color: #8b67d3;
+  8914:                                         background: #8b67d3;
+  8952:                                         --border-color: #8b67d3;
+  8960:                                         background: #8b67d3;
+  9053:                                         --hover-color: #8b67d3;
+  9106:                                         --hover-color: #8b67d3;
+  9174:                                         --border-color: #8b67d3;
+  9182:                                         background: #8b67d3;
+  9220:                                         --border-color: #8b67d3;
+  9228:                                         background: #8b67d3;
+  9258:                     data-bg-color="#8b67d3"
+
+dexETF.html:
+   914:               widget_color: "#8b67d3",
+   959:                 icon_color: "#8b67d3",
+   999:                 icon_color: "#8b67d3",
+  1039:                 icon_color: "#8b67d3",
+  1794:         color: #8b67d3;
+  2096:         color: #8b67d3;
+  2100:         color: #8b67d3;
+  2104:         color: #8b67d3;
+  2108:         color: #8b67d3;
+  2112:         color: #8b67d3;
+  3055:                                                         border-color: #8b67d3;
+  3063:                                                         border-color: #8b67d3;
+  3098:                                                       color: #8b67d3 !important;
+  3100:                                                       border-color: #8b67d3;
+  3101:                                                       --border-color: #8b67d3;
+  3109:                                                       background: #8b67d3;
+  3170:                                                         border-color: #8b67d3;
+  3178:                                                         border-color: #8b67d3;
+  3202:                                                               --hover-color: #8b67d3;
+  3251:                                                               --hover-color: #8b67d3;
+  3299:                                                       color: #8b67d3 !important;
+  3301:                                                       border-color: #8b67d3;
+  3302:                                                       --border-color: #8b67d3;
+  3310:                                                       background: #8b67d3;
+  3561:                                                         border-color: #8b67d3;
+  3569:                                                         border-color: #8b67d3;
+  3600:                                                       color: #8b67d3 !important;
+  3602:                                                       border-color: #8b67d3;
+  3603:                                                       --border-color: #8b67d3;
+  3611:                                                       background: #8b67d3;
+  3672:                                                         border-color: #8b67d3;
+  3680:                                                         border-color: #8b67d3;
+  3704:                                                               --hover-color: #8b67d3;
+  3762:                                                               --hover-color: #8b67d3;
+  3810:                                                       color: #8b67d3 !important;
+  3812:                                                       border-color: #8b67d3;
+  3813:                                                       --border-color: #8b67d3;
+  3821:                                                       background: #8b67d3;
+  3896:                                                                 border-color: #8b67d3;
+  3904:                                                                 border-color: #8b67d3;
+  4037:                                                         border-color: #8b67d3;
+  4045:                                                         border-color: #8b67d3;
+  4076:                                                       color: #8b67d3 !important;
+  4078:                                                       border-color: #8b67d3;
+  4079:                                                       --border-color: #8b67d3;
+  4087:                                                       background: #8b67d3;
+  4148:                                                         border-color: #8b67d3;
+  4156:                                                         border-color: #8b67d3;
+  4180:                                                               --hover-color: #8b67d3;
+  4227:                                                               --hover-color: #8b67d3;
+  4392:                                                         border-color: #8b67d3;
+  4400:                                                         border-color: #8b67d3;
+  4504:                                                               color: #8b67d3 !important;
+  4506:                                                               border-color: #8b67d3;
+  4507:                                                               --border-color: #8b67d3;
+  4515:                                                               background: #8b67d3;
+  4553:                                                               color: #8b67d3 !important;
+  4555:                                                               border-color: #8b67d3;
+  4556:                                                               --border-color: #8b67d3;
+  4564:                                                               background: #8b67d3;
+  4727:                                                         border-color: #8b67d3;
+  4735:                                                         border-color: #8b67d3;
+  4770:                                                       color: #8b67d3 !important;
+  4772:                                                       border-color: #8b67d3;
+  4773:                                                       --border-color: #8b67d3;
+  4781:                                                       background: #8b67d3;
+  4878:                                                               --hover-color: #8b67d3;
+  4966:                                                               --hover-color: #8b67d3;
+  5054:                                                               --hover-color: #8b67d3;
+  5257:                                                         border-color: #8b67d3;
+  5265:                                                         border-color: #8b67d3;
+  5300:                                                       color: #8b67d3 !important;
+  5302:                                                       border-color: #8b67d3;
+  5303:                                                       --border-color: #8b67d3;
+  5311:                                                       background: #8b67d3;
+  5372:                                                         border-color: #8b67d3;
+  5380:                                                         border-color: #8b67d3;
+  5404:                                                               --hover-color: #8b67d3;
+  5453:                                                               --hover-color: #8b67d3;
+  5501:                                                       color: #8b67d3 !important;
+  5503:                                                       border-color: #8b67d3;
+  5504:                                                       --border-color: #8b67d3;
+  5512:                                                       background: #8b67d3;
+  5761:                                                         border-color: #8b67d3;
+  5769:                                                         border-color: #8b67d3;
+  5800:                                                       color: #8b67d3 !important;
+  5802:                                                       border-color: #8b67d3;
+  5803:                                                       --border-color: #8b67d3;
+  5811:                                                       background: #8b67d3;
+  5872:                                                         border-color: #8b67d3;
+  5880:                                                         border-color: #8b67d3;
+  5904:                                                               --hover-color: #8b67d3;
+  5962:                                                               --hover-color: #8b67d3;
+  6010:                                                       color: #8b67d3 !important;
+  6012:                                                       border-color: #8b67d3;
+  6013:                                                       --border-color: #8b67d3;
+  6021:                                                       background: #8b67d3;
+  6096:                                                                 border-color: #8b67d3;
+  6104:                                                                 border-color: #8b67d3;
+  6235:                                                         border-color: #8b67d3;
+  6243:                                                         border-color: #8b67d3;
+  6274:                                                       color: #8b67d3 !important;
+  6276:                                                       border-color: #8b67d3;
+  6277:                                                       --border-color: #8b67d3;
+  6285:                                                       background: #8b67d3;
+  6346:                                                         border-color: #8b67d3;
+  6354:                                                         border-color: #8b67d3;
+  6378:                                                               --hover-color: #8b67d3;
+  6425:                                                               --hover-color: #8b67d3;
+  6588:                                                         border-color: #8b67d3;
+  6596:                                                         border-color: #8b67d3;
+  6700:                                                               color: #8b67d3 !important;
+  6702:                                                               border-color: #8b67d3;
+  6703:                                                               --border-color: #8b67d3;
+  6711:                                                               background: #8b67d3;
+  6749:                                                               color: #8b67d3 !important;
+  6751:                                                               border-color: #8b67d3;
+  6752:                                                               --border-color: #8b67d3;
+  6760:                                                               background: #8b67d3;
+  6921:                                                         border-color: #8b67d3;
+  6929:                                                         border-color: #8b67d3;
+  6964:                                                       color: #8b67d3 !important;
+  6966:                                                       border-color: #8b67d3;
+  6967:                                                       --border-color: #8b67d3;
+  6975:                                                       background: #8b67d3;
+  7072:                                                               --hover-color: #8b67d3;
+  7160:                                                               --hover-color: #8b67d3;
+  7248:                                                               --hover-color: #8b67d3;
+  7534:                                         data-bg="#8b67d3"
+  7535:                                         data-hover-bg="#8b67d3"
+  7546:                                           background: #8b67d3;
+  7552:                                           style="background-color: #8b67d3"
+  7699:                                         <span style="color: #8b67d3"
+  7837:                     data-bg-color="#8b67d3"
+  8672:                                 --hover-color: #8b67d3;
+  8736:                                 --hover-color: #8b67d3;
+  8792:                                 --hover-color: #8b67d3;
+  8851:                                         --border-color: #8b67d3;
+  8859:                                         background: #8b67d3;
+  8897:                                         --border-color: #8b67d3;
+  8905:                                         background: #8b67d3;
+  8998:                                         --hover-color: #8b67d3;
+  9051:                                         --hover-color: #8b67d3;
+  9119:                                         --border-color: #8b67d3;
+  9127:                                         background: #8b67d3;
+  9165:                                         --border-color: #8b67d3;
+  9173:                                         background: #8b67d3;
+  9203:                     data-bg-color="#8b67d3"
+
+dexira.html:
+    912:               widget_color: "#8b67d3",
+    957:                 icon_color: "#8b67d3",
+    997:                 icon_color: "#8b67d3",
+   1037:                 icon_color: "#8b67d3",
+   1792:         color: #8b67d3;
+   2094:         color: #8b67d3;
+   2098:         color: #8b67d3;
+   2102:         color: #8b67d3;
+   2106:         color: #8b67d3;
+   2110:         color: #8b67d3;
+   2719:         background: linear-gradient(to top, #8b67d3 30%, transparent 0%);
+   2723:         background: linear-gradient(to top, #8b67d3 30%, transparent 0%);
+   2727:         background: linear-gradient(to top, #8b67d3 30%, transparent 0%);
+   2731:         background: linear-gradient(to top, #8b67d3 30%, transparent 0%);
+   2735:         background: linear-gradient(to top, #8b67d3 30%, transparent 0%);
+   2739:         background: linear-gradient(to top, #8b67d3 30%, transparent 0%);
+   2743:         background: linear-gradient(to top, #8b67d3 30%, transparent 0%);
+   2747:         background: linear-gradient(to top, #8b67d3 30%, transparent 0%);
+   2751:         background: linear-gradient(to top, #8b67d3 30%, transparent 0%);
+   2755:         background: linear-gradient(to top, #8b67d3 30%, transparent 0%);
+   2835:         background: #8b67d3 !important;
+   3852:                                                         border-color: #8b67d3;
+   3860:                                                         border-color: #8b67d3;
+   3895:                                                       color: #8b67d3 !important;
+   3897:                                                       border-color: #8b67d3;
+   3898:                                                       --border-color: #8b67d3;
+   3906:                                                       background: #8b67d3;
+   3967:                                                         border-color: #8b67d3;
+   3975:                                                         border-color: #8b67d3;
+   3999:                                                               --hover-color: #8b67d3;
+   4048:                                                               --hover-color: #8b67d3;
+   4096:                                                       color: #8b67d3 !important;
+   4098:                                                       border-color: #8b67d3;
+   4099:                                                       --border-color: #8b67d3;
+   4107:                                                       background: #8b67d3;
+   4358:                                                         border-color: #8b67d3;
+   4366:                                                         border-color: #8b67d3;
+   4397:                                                       color: #8b67d3 !important;
+   4399:                                                       border-color: #8b67d3;
+   4400:                                                       --border-color: #8b67d3;
+   4408:                                                       background: #8b67d3;
+   4469:                                                         border-color: #8b67d3;
+   4477:                                                         border-color: #8b67d3;
+   4501:                                                               --hover-color: #8b67d3;
+   4559:                                                               --hover-color: #8b67d3;
+   4607:                                                       color: #8b67d3 !important;
+   4609:                                                       border-color: #8b67d3;
+   4610:                                                       --border-color: #8b67d3;
+   4618:                                                       background: #8b67d3;
+   4693:                                                                 border-color: #8b67d3;
+   4701:                                                                 border-color: #8b67d3;
+   4834:                                                         border-color: #8b67d3;
+   4842:                                                         border-color: #8b67d3;
+   4873:                                                       color: #8b67d3 !important;
+   4875:                                                       border-color: #8b67d3;
+   4876:                                                       --border-color: #8b67d3;
+   4884:                                                       background: #8b67d3;
+   4945:                                                         border-color: #8b67d3;
+   4953:                                                         border-color: #8b67d3;
+   4977:                                                               --hover-color: #8b67d3;
+   5024:                                                               --hover-color: #8b67d3;
+   5189:                                                         border-color: #8b67d3;
+   5197:                                                         border-color: #8b67d3;
+   5301:                                                               color: #8b67d3 !important;
+   5303:                                                               border-color: #8b67d3;
+   5304:                                                               --border-color: #8b67d3;
+   5312:                                                               background: #8b67d3;
+   5350:                                                               color: #8b67d3 !important;
+   5352:                                                               border-color: #8b67d3;
+   5353:                                                               --border-color: #8b67d3;
+   5361:                                                               background: #8b67d3;
+   5524:                                                         border-color: #8b67d3;
+   5532:                                                         border-color: #8b67d3;
+   5567:                                                       color: #8b67d3 !important;
+   5569:                                                       border-color: #8b67d3;
+   5570:                                                       --border-color: #8b67d3;
+   5578:                                                       background: #8b67d3;
+   5675:                                                               --hover-color: #8b67d3;
+   5763:                                                               --hover-color: #8b67d3;
+   5851:                                                               --hover-color: #8b67d3;
+   6054:                                                         border-color: #8b67d3;
+   6062:                                                         border-color: #8b67d3;
+   6097:                                                       color: #8b67d3 !important;
+   6099:                                                       border-color: #8b67d3;
+   6100:                                                       --border-color: #8b67d3;
+   6108:                                                       background: #8b67d3;
+   6169:                                                         border-color: #8b67d3;
+   6177:                                                         border-color: #8b67d3;
+   6201:                                                               --hover-color: #8b67d3;
+   6250:                                                               --hover-color: #8b67d3;
+   6298:                                                       color: #8b67d3 !important;
+   6300:                                                       border-color: #8b67d3;
+   6301:                                                       --border-color: #8b67d3;
+   6309:                                                       background: #8b67d3;
+   6558:                                                         border-color: #8b67d3;
+   6566:                                                         border-color: #8b67d3;
+   6597:                                                       color: #8b67d3 !important;
+   6599:                                                       border-color: #8b67d3;
+   6600:                                                       --border-color: #8b67d3;
+   6608:                                                       background: #8b67d3;
+   6669:                                                         border-color: #8b67d3;
+   6677:                                                         border-color: #8b67d3;
+   6701:                                                               --hover-color: #8b67d3;
+   6759:                                                               --hover-color: #8b67d3;
+   6807:                                                       color: #8b67d3 !important;
+   6809:                                                       border-color: #8b67d3;
+   6810:                                                       --border-color: #8b67d3;
+   6818:                                                       background: #8b67d3;
+   6893:                                                                 border-color: #8b67d3;
+   6901:                                                                 border-color: #8b67d3;
+   7032:                                                         border-color: #8b67d3;
+   7040:                                                         border-color: #8b67d3;
+   7071:                                                       color: #8b67d3 !important;
+   7073:                                                       border-color: #8b67d3;
+   7074:                                                       --border-color: #8b67d3;
+   7082:                                                       background: #8b67d3;
+   7143:                                                         border-color: #8b67d3;
+   7151:                                                         border-color: #8b67d3;
+   7175:                                                               --hover-color: #8b67d3;
+   7222:                                                               --hover-color: #8b67d3;
+   7385:                                                         border-color: #8b67d3;
+   7393:                                                         border-color: #8b67d3;
+   7497:                                                               color: #8b67d3 !important;
+   7499:                                                               border-color: #8b67d3;
+   7500:                                                               --border-color: #8b67d3;
+   7508:                                                               background: #8b67d3;
+   7546:                                                               color: #8b67d3 !important;
+   7548:                                                               border-color: #8b67d3;
+   7549:                                                               --border-color: #8b67d3;
+   7557:                                                               background: #8b67d3;
+   7718:                                                         border-color: #8b67d3;
+   7726:                                                         border-color: #8b67d3;
+   7761:                                                       color: #8b67d3 !important;
+   7763:                                                       border-color: #8b67d3;
+   7764:                                                       --border-color: #8b67d3;
+   7772:                                                       background: #8b67d3;
+   7869:                                                               --hover-color: #8b67d3;
+   7957:                                                               --hover-color: #8b67d3;
+   8045:                                                               --hover-color: #8b67d3;
+   8315:                       color: #8b67d3;
+   8336:                       color: #8b67d3;
+   8506:                         background-color: #8b67d3;
+   8532:                         background-color: #8b67d3;
+   8560:                         color: #8b67d3;
+   8609:                         color: #8b67d3;
+   8634:                         color: #8b67d3;
+   8659:                         color: #8b67d3;
+   8685:                         color: #8b67d3;
+   8699:                         color: #8b67d3 !important;
+   8705:                         color: #8b67d3;
+   8717:                         color: #8b67d3 !important;
+   8723:                         color: #8b67d3;
+   8884:                                         data-border-color="#8b67d3"
+   8885:                                         data-bg="#8b67d3"
+   8901:                                           border-color: #8b67d3;
+   8903:                                           background: #8b67d3;
+   8930:                                         data-border-color="#8b67d3"
+   8931:                                         data-bg="#8b67d3"
+   8947:                                           border-color: #8b67d3;
+   8949:                                           background: #8b67d3;
+   9052:                                             style="color: #8b67d3"
+   9088:                     data-bg-color="#8b67d3"
+   9188:                                           <span style="color: #8b67d3"
+   9264:                                           <span style="color: #8b67d3"
+   9268:                                           ><span style="color: #8b67d3"
+   9352:                                           <span style="color: #8b67d3"
+   9510:                                         <span style="color: #8b67d3"
+   9514:                                         ><span style="color: #8b67d3"
+   9569:                     data-bg-color="#8b67d3"
+  10160:                     data-bg-color="#8b67d3"
+  10249:                                           style="color: #8b67d3"
+  10295:                                             style="color: #8b67d3"
+  10954:                     data-bg-color="#8b67d3"
+  11009:                                         <span style="color: #8b67d3"
+  11022:                                         style="border-color: #8b67d3"
+  11027:                                         style="border-color: #8b67d3"
+  11106:                                         <span style="color: #8b67d3"
+  11119:                                         style="border-color: #8b67d3"
+  11124:                                         style="border-color: #8b67d3"
+  11209:                                         <span style="color: #8b67d3"
+  11222:                                         style="border-color: #8b67d3"
+  11227:                                         style="border-color: #8b67d3"
+  12103:                                 --hover-color: #8b67d3;
+  12167:                                 --hover-color: #8b67d3;
+  12223:                                 --hover-color: #8b67d3;
+  12282:                                         --border-color: #8b67d3;
+  12290:                                         background: #8b67d3;
+  12328:                                         --border-color: #8b67d3;
+  12336:                                         background: #8b67d3;
+  12429:                                         --hover-color: #8b67d3;
+  12482:                                         --hover-color: #8b67d3;
+  12550:                                         --border-color: #8b67d3;
+  12558:                                         background: #8b67d3;
+  12596:                                         --border-color: #8b67d3;
+  12604:                                         background: #8b67d3;
+  12634:                     data-bg-color="#8b67d3"
+
+dexpad.html:
+    886:               widget_color: "#8b67d3",
+    931:                 icon_color: "#8b67d3",
+    971:                 icon_color: "#8b67d3",
+   1011:                 icon_color: "#8b67d3",
+   1771:         color: #8b67d3;
+   2073:         color: #8b67d3;
+   2077:         color: #8b67d3;
+   2081:         color: #8b67d3;
+   2085:         color: #8b67d3;
+   2089:         color: #8b67d3;
+   3230:                                                         border-color: #8b67d3;
+   3238:                                                         border-color: #8b67d3;
+   3273:                                                       color: #8b67d3 !important;
+   3275:                                                       border-color: #8b67d3;
+   3276:                                                       --border-color: #8b67d3;
+   3284:                                                       background: #8b67d3;
+   3345:                                                         border-color: #8b67d3;
+   3353:                                                         border-color: #8b67d3;
+   3377:                                                               --hover-color: #8b67d3;
+   3426:                                                               --hover-color: #8b67d3;
+   3474:                                                       color: #8b67d3 !important;
+   3476:                                                       border-color: #8b67d3;
+   3477:                                                       --border-color: #8b67d3;
+   3485:                                                       background: #8b67d3;
+   3736:                                                         border-color: #8b67d3;
+   3744:                                                         border-color: #8b67d3;
+   3775:                                                       color: #8b67d3 !important;
+   3777:                                                       border-color: #8b67d3;
+   3778:                                                       --border-color: #8b67d3;
+   3786:                                                       background: #8b67d3;
+   3847:                                                         border-color: #8b67d3;
+   3855:                                                         border-color: #8b67d3;
+   3879:                                                               --hover-color: #8b67d3;
+   3937:                                                               --hover-color: #8b67d3;
+   3985:                                                       color: #8b67d3 !important;
+   3987:                                                       border-color: #8b67d3;
+   3988:                                                       --border-color: #8b67d3;
+   3996:                                                       background: #8b67d3;
+   4071:                                                                 border-color: #8b67d3;
+   4079:                                                                 border-color: #8b67d3;
+   4212:                                                         border-color: #8b67d3;
+   4220:                                                         border-color: #8b67d3;
+   4251:                                                       color: #8b67d3 !important;
+   4253:                                                       border-color: #8b67d3;
+   4254:                                                       --border-color: #8b67d3;
+   4262:                                                       background: #8b67d3;
+   4323:                                                         border-color: #8b67d3;
+   4331:                                                         border-color: #8b67d3;
+   4355:                                                               --hover-color: #8b67d3;
+   4402:                                                               --hover-color: #8b67d3;
+   4567:                                                         border-color: #8b67d3;
+   4575:                                                         border-color: #8b67d3;
+   4679:                                                               color: #8b67d3 !important;
+   4681:                                                               border-color: #8b67d3;
+   4682:                                                               --border-color: #8b67d3;
+   4690:                                                               background: #8b67d3;
+   4728:                                                               color: #8b67d3 !important;
+   4730:                                                               border-color: #8b67d3;
+   4731:                                                               --border-color: #8b67d3;
+   4739:                                                               background: #8b67d3;
+   4902:                                                         border-color: #8b67d3;
+   4910:                                                         border-color: #8b67d3;
+   4945:                                                       color: #8b67d3 !important;
+   4947:                                                       border-color: #8b67d3;
+   4948:                                                       --border-color: #8b67d3;
+   4956:                                                       background: #8b67d3;
+   5053:                                                               --hover-color: #8b67d3;
+   5141:                                                               --hover-color: #8b67d3;
+   5229:                                                               --hover-color: #8b67d3;
+   5432:                                                         border-color: #8b67d3;
+   5440:                                                         border-color: #8b67d3;
+   5475:                                                       color: #8b67d3 !important;
+   5477:                                                       border-color: #8b67d3;
+   5478:                                                       --border-color: #8b67d3;
+   5486:                                                       background: #8b67d3;
+   5547:                                                         border-color: #8b67d3;
+   5555:                                                         border-color: #8b67d3;
+   5579:                                                               --hover-color: #8b67d3;
+   5628:                                                               --hover-color: #8b67d3;
+   5676:                                                       color: #8b67d3 !important;
+   5678:                                                       border-color: #8b67d3;
+   5679:                                                       --border-color: #8b67d3;
+   5687:                                                       background: #8b67d3;
+   5936:                                                         border-color: #8b67d3;
+   5944:                                                         border-color: #8b67d3;
+   5975:                                                       color: #8b67d3 !important;
+   5977:                                                       border-color: #8b67d3;
+   5978:                                                       --border-color: #8b67d3;
+   5986:                                                       background: #8b67d3;
+   6047:                                                         border-color: #8b67d3;
+   6055:                                                         border-color: #8b67d3;
+   6079:                                                               --hover-color: #8b67d3;
+   6137:                                                               --hover-color: #8b67d3;
+   6185:                                                       color: #8b67d3 !important;
+   6187:                                                       border-color: #8b67d3;
+   6188:                                                       --border-color: #8b67d3;
+   6196:                                                       background: #8b67d3;
+   6271:                                                                 border-color: #8b67d3;
+   6279:                                                                 border-color: #8b67d3;
+   6410:                                                         border-color: #8b67d3;
+   6418:                                                         border-color: #8b67d3;
+   6449:                                                       color: #8b67d3 !important;
+   6451:                                                       border-color: #8b67d3;
+   6452:                                                       --border-color: #8b67d3;
+   6460:                                                       background: #8b67d3;
+   6521:                                                         border-color: #8b67d3;
+   6529:                                                         border-color: #8b67d3;
+   6553:                                                               --hover-color: #8b67d3;
+   6600:                                                               --hover-color: #8b67d3;
+   6763:                                                         border-color: #8b67d3;
+   6771:                                                         border-color: #8b67d3;
+   6875:                                                               color: #8b67d3 !important;
+   6877:                                                               border-color: #8b67d3;
+   6878:                                                               --border-color: #8b67d3;
+   6886:                                                               background: #8b67d3;
+   6924:                                                               color: #8b67d3 !important;
+   6926:                                                               border-color: #8b67d3;
+   6927:                                                               --border-color: #8b67d3;
+   6935:                                                               background: #8b67d3;
+   7096:                                                         border-color: #8b67d3;
+   7104:                                                         border-color: #8b67d3;
+   7139:                                                       color: #8b67d3 !important;
+   7141:                                                       border-color: #8b67d3;
+   7142:                                                       --border-color: #8b67d3;
+   7150:                                                       background: #8b67d3;
+   7247:                                                               --hover-color: #8b67d3;
+   7335:                                                               --hover-color: #8b67d3;
+   7423:                                                               --hover-color: #8b67d3;
+   7695:                                 data-bg="#8b67d3"
+   7696:                                 data-hover-bg="#8b67d3"
+   7707:                                   background: #8b67d3;
+   7713:                                   style="background-color: #8b67d3"
+   7876:                                         <span style="color: #8b67d3"
+   8013:                     data-bg-color="#8b67d3"
+   8070:                                         <span style="color: #8b67d3"
+   8072:                                             style="color: #8b67d3"
+   8984:                     data-bg-color="#8b67d3"
+   9096:                                         data-bg="#8b67d3"
+   9097:                                         data-hover-bg="#8b67d3"
+   9111:                                           background: #8b67d3;
+   9117:                                           style="background-color: #8b67d3"
+   9156:                                         data-bg="#8b67d3"
+   9157:                                         data-hover-bg="#8b67d3"
+   9171:                                           background: #8b67d3;
+   9177:                                           style="background-color: #8b67d3"
+   9974:                                 --hover-color: #8b67d3;
+  10038:                                 --hover-color: #8b67d3;
+  10094:                                 --hover-color: #8b67d3;
+  10153:                                         --border-color: #8b67d3;
+  10161:                                         background: #8b67d3;
+  10199:                                         --border-color: #8b67d3;
+  10207:                                         background: #8b67d3;
+  10300:                                         --hover-color: #8b67d3;
+  10353:                                         --hover-color: #8b67d3;
+  10421:                                         --border-color: #8b67d3;
+  10429:                                         background: #8b67d3;
+  10467:                                         --border-color: #8b67d3;
+  10475:                                         background: #8b67d3;
+  10505:                     data-bg-color="#8b67d3"
+
+index.html:
+   2089:         color: #8b67d3;
+   2093:         color: #8b67d3;
+   2105:         color: #8b67d3;
+   2458:         background: #8b67d3 !important;
+   5613:                                                               --hover-color: #8b67d3;
+   5701:                                                               --hover-color: #8b67d3;
+   5788:                                                               --hover-color: #8b67d3;
+   7786:                                                               --hover-color: #8b67d3;
+   7874:                                                               --hover-color: #8b67d3;
+   7962:                                                               --hover-color: #8b67d3;
+   8274:                                         <span style="color: #8b67d3"
+   8296:                                         <span style="color: #8b67d3"
+   8318:                                         <span style="color: #8b67d3"
+   8572:                                         data-border-color="#8b67d3"
+   8573:                                         data-bg="#8b67d3"
+   8589:                                           border-color: #8b67d3;
+   8591:                                           background: #8b67d3;
+   9133:                     data-bg-color="#8b67d3"
+   9431:                     data-bg-color="#8b67d3"
+   9481:                                         <span style="color: #8b67d3">DeFi </span
+  10293:                                         data-border-color="#8b67d3"
+  10310:                                           border-color: #8b67d3;
+  10338:                                         data-border-color="#8b67d3"
+  10355:                                           border-color: #8b67d3;
+  10621:                     data-bg-color="#8b67d3"
+  10723:                                           ><span style="color: #8b67d3"
+  10727:                                         <span style="color: #8b67d3"
+  10729:                                             style="color: #8b67d3"
+  10774:                                           ><span style="color: #8b67d3"
+  10778:                                         <span style="color: #8b67d3"
+  10780:                                             style="color: #8b67d3"
+  10825:                                           ><span style="color: #8b67d3"
+  10829:                                         <span style="color: #8b67d3"
+  10831:                                             style="color: #8b67d3"
+  10879:                                   ><span style="color: #8b67d3"
+  10904:                                   ><span style="color: #8b67d3"
+  10923:                                   ><span style="color: #8b67d3"
+  11015:                                           ><span style="color: #8b67d3"
+  11019:                                         <span style="color: #8b67d3"
+  11021:                                             style="color: #8b67d3"
+  11076:                                           ><span style="color: #8b67d3"
+  11080:                                         <span style="color: #8b67d3"
+  11082:                                             style="color: #8b67d3"
+  11137:                                           ><span style="color: #8b67d3"
+  11141:                                         <span style="color: #8b67d3"
+  11143:                                             style="color: #8b67d3"
+  12473:                     data-bg-color="#8b67d3"
+
+money-market.html:
+   891:               widget_color: "#8b67d3",
+   936:                 icon_color: "#8b67d3",
+   976:                 icon_color: "#8b67d3",
+  1016:                 icon_color: "#8b67d3",
+  1771:         color: #8b67d3;
+  2073:         color: #8b67d3;
+  2077:         color: #8b67d3;
+  2081:         color: #8b67d3;
+  2085:         color: #8b67d3;
+  2089:         color: #8b67d3;
+  3300:                                                         border-color: #8b67d3;
+  3308:                                                         border-color: #8b67d3;
+  3343:                                                       color: #8b67d3 !important;
+  3345:                                                       border-color: #8b67d3;
+  3346:                                                       --border-color: #8b67d3;
+  3354:                                                       background: #8b67d3;
+  3415:                                                         border-color: #8b67d3;
+  3423:                                                         border-color: #8b67d3;
+  3447:                                                               --hover-color: #8b67d3;
+  3496:                                                               --hover-color: #8b67d3;
+  3544:                                                       color: #8b67d3 !important;
+  3546:                                                       border-color: #8b67d3;
+  3547:                                                       --border-color: #8b67d3;
+  3555:                                                       background: #8b67d3;
+  3785:                                                         border-color: #8b67d3;
+  3793:                                                         border-color: #8b67d3;
+  3824:                                                       color: #8b67d3 !important;
+  3826:                                                       border-color: #8b67d3;
+  3827:                                                       --border-color: #8b67d3;
+  3835:                                                       background: #8b67d3;
+  3896:                                                         border-color: #8b67d3;
+  3904:                                                         border-color: #8b67d3;
+  3928:                                                               --hover-color: #8b67d3;
+  3986:                                                               --hover-color: #8b67d3;
+  4034:                                                       color: #8b67d3 !important;
+  4036:                                                       border-color: #8b67d3;
+  4037:                                                       --border-color: #8b67d3;
+  4045:                                                       background: #8b67d3;
+  4120:                                                                 border-color: #8b67d3;
+  4128:                                                                 border-color: #8b67d3;
+  4259:                                                         border-color: #8b67d3;
+  4267:                                                         border-color: #8b67d3;
+  4298:                                                       color: #8b67d3 !important;
+  4300:                                                       border-color: #8b67d3;
+  4301:                                                       --border-color: #8b67d3;
+  4309:                                                       background: #8b67d3;
+  4370:                                                         border-color: #8b67d3;
+  4378:                                                         border-color: #8b67d3;
+  4402:                                                               --hover-color: #8b67d3;
+  4449:                                                               --hover-color: #8b67d3;
+  4601:                                                         border-color: #8b67d3;
+  4609:                                                         border-color: #8b67d3;
+  4713:                                                               color: #8b67d3 !important;
+  4715:                                                               border-color: #8b67d3;
+  4716:                                                               --border-color: #8b67d3;
+  4724:                                                               background: #8b67d3;
+  4762:                                                               color: #8b67d3 !important;
+  4764:                                                               border-color: #8b67d3;
+  4765:                                                               --border-color: #8b67d3;
+  4773:                                                               background: #8b67d3;
+  4936:                                                         border-color: #8b67d3;
+  4944:                                                         border-color: #8b67d3;
+  4979:                                                       color: #8b67d3 !important;
+  4981:                                                       border-color: #8b67d3;
+  4982:                                                       --border-color: #8b67d3;
+  4990:                                                       background: #8b67d3;
+  5085:                                                               --hover-color: #8b67d3;
+  5171:                                                               --hover-color: #8b67d3;
+  5257:                                                               --hover-color: #8b67d3;
+  5460:                                                         border-color: #8b67d3;
+  5468:                                                         border-color: #8b67d3;
+  5503:                                                       color: #8b67d3 !important;
+  5505:                                                       border-color: #8b67d3;
+  5506:                                                       --border-color: #8b67d3;
+  5514:                                                       background: #8b67d3;
+  5575:                                                         border-color: #8b67d3;
+  5583:                                                         border-color: #8b67d3;
+  5607:                                                               --hover-color: #8b67d3;
+  5656:                                                               --hover-color: #8b67d3;
+  5704:                                                       color: #8b67d3 !important;
+  5706:                                                       border-color: #8b67d3;
+  5707:                                                       --border-color: #8b67d3;
+  5715:                                                       background: #8b67d3;
+  5957:                                                         border-color: #8b67d3;
+  5965:                                                         border-color: #8b67d3;
+  5996:                                                       color: #8b67d3 !important;
+  5998:                                                       border-color: #8b67d3;
+  5999:                                                       --border-color: #8b67d3;
+  6007:                                                       background: #8b67d3;
+  6068:                                                         border-color: #8b67d3;
+  6076:                                                         border-color: #8b67d3;
+  6100:                                                               --hover-color: #8b67d3;
+  6158:                                                               --hover-color: #8b67d3;
+  6206:                                                       color: #8b67d3 !important;
+  6208:                                                       border-color: #8b67d3;
+  6209:                                                       --border-color: #8b67d3;
+  6217:                                                       background: #8b67d3;
+  6292:                                                                 border-color: #8b67d3;
+  6300:                                                                 border-color: #8b67d3;
+  6431:                                                         border-color: #8b67d3;
+  6439:                                                         border-color: #8b67d3;
+  6470:                                                       color: #8b67d3 !important;
+  6472:                                                       border-color: #8b67d3;
+  6473:                                                       --border-color: #8b67d3;
+  6481:                                                       background: #8b67d3;
+  6542:                                                         border-color: #8b67d3;
+  6550:                                                         border-color: #8b67d3;
+  6574:                                                               --hover-color: #8b67d3;
+  6621:                                                               --hover-color: #8b67d3;
+  6784:                                                         border-color: #8b67d3;
+  6792:                                                         border-color: #8b67d3;
+  6896:                                                               color: #8b67d3 !important;
+  6898:                                                               border-color: #8b67d3;
+  6899:                                                               --border-color: #8b67d3;
+  6907:                                                               background: #8b67d3;
+  6945:                                                               color: #8b67d3 !important;
+  6947:                                                               border-color: #8b67d3;
+  6948:                                                               --border-color: #8b67d3;
+  6956:                                                               background: #8b67d3;
+  7107:                                                         border-color: #8b67d3;
+  7115:                                                         border-color: #8b67d3;
+  7150:                                                       color: #8b67d3 !important;
+  7152:                                                       border-color: #8b67d3;
+  7153:                                                       --border-color: #8b67d3;
+  7161:                                                       background: #8b67d3;
+  7256:                                                               --hover-color: #8b67d3;
+  7342:                                                               --hover-color: #8b67d3;
+  7428:                                                               --hover-color: #8b67d3;
+  7703:                                 data-hover="#8b67d3"
+  7705:                                 data-bg="#8b67d3"
+  7717:                                   background: #8b67d3;
+  7850:                                         --border-color: #8b67d3;
+  7858:                                         background: #8b67d3;
+  8009:                                         --border-color: #8b67d3;
+  8017:                                         background: #8b67d3;
+  8159:                                           style="color: #8b67d3"
+  8204:                                             style="color: #8b67d3"
+  9315:                                 --hover-color: #8b67d3;
+  9379:                                 --hover-color: #8b67d3;
+  9433:                                 --hover-color: #8b67d3;
+  9489:                                         --border-color: #8b67d3;
+  9497:                                         background: #8b67d3;
+  9535:                                         --border-color: #8b67d3;
+  9543:                                         background: #8b67d3;
+  9636:                                         --hover-color: #8b67d3;
+  9689:                                         --hover-color: #8b67d3;
+  9757:                                         --border-color: #8b67d3;
+  9765:                                         background: #8b67d3;
+  9803:                                         --border-color: #8b67d3;
+  9811:                                         background: #8b67d3;
+  9841:                     data-bg-color="#8b67d3"
+
+team.html:
+   904:               widget_color: "#8b67d3",
+   949:                 icon_color: "#8b67d3",
+   989:                 icon_color: "#8b67d3",
+  1029:                 icon_color: "#8b67d3",
+  1784:         color: #8b67d3;
+  2086:         color: #8b67d3;
+  2090:         color: #8b67d3;
+  2094:         color: #8b67d3;
+  2098:         color: #8b67d3;
+  2102:         color: #8b67d3;
+  2337:           background: #8b67d3 !important;
+  2455:         background: #8b67d3 !important;
+  3202:                                                         border-color: #8b67d3;
+  3210:                                                         border-color: #8b67d3;
+  3245:                                                       color: #8b67d3 !important;
+  3247:                                                       border-color: #8b67d3;
+  3248:                                                       --border-color: #8b67d3;
+  3256:                                                       background: #8b67d3;
+  3317:                                                         border-color: #8b67d3;
+  3325:                                                         border-color: #8b67d3;
+  3349:                                                               --hover-color: #8b67d3;
+  3398:                                                               --hover-color: #8b67d3;
+  3446:                                                       color: #8b67d3 !important;
+  3448:                                                       border-color: #8b67d3;
+  3449:                                                       --border-color: #8b67d3;
+  3457:                                                       background: #8b67d3;
+  3708:                                                         border-color: #8b67d3;
+  3716:                                                         border-color: #8b67d3;
+  3747:                                                       color: #8b67d3 !important;
+  3749:                                                       border-color: #8b67d3;
+  3750:                                                       --border-color: #8b67d3;
+  3758:                                                       background: #8b67d3;
+  3819:                                                         border-color: #8b67d3;
+  3827:                                                         border-color: #8b67d3;
+  3851:                                                               --hover-color: #8b67d3;
+  3909:                                                               --hover-color: #8b67d3;
+  3957:                                                       color: #8b67d3 !important;
+  3959:                                                       border-color: #8b67d3;
+  3960:                                                       --border-color: #8b67d3;
+  3968:                                                       background: #8b67d3;
+  4043:                                                                 border-color: #8b67d3;
+  4051:                                                                 border-color: #8b67d3;
+  4184:                                                         border-color: #8b67d3;
+  4192:                                                         border-color: #8b67d3;
+  4223:                                                       color: #8b67d3 !important;
+  4225:                                                       border-color: #8b67d3;
+  4226:                                                       --border-color: #8b67d3;
+  4234:                                                       background: #8b67d3;
+  4295:                                                         border-color: #8b67d3;
+  4303:                                                         border-color: #8b67d3;
+  4327:                                                               --hover-color: #8b67d3;
+  4374:                                                               --hover-color: #8b67d3;
+  4539:                                                         border-color: #8b67d3;
+  4547:                                                         border-color: #8b67d3;
+  4651:                                                               color: #8b67d3 !important;
+  4653:                                                               border-color: #8b67d3;
+  4654:                                                               --border-color: #8b67d3;
+  4662:                                                               background: #8b67d3;
+  4700:                                                               color: #8b67d3 !important;
+  4702:                                                               border-color: #8b67d3;
+  4703:                                                               --border-color: #8b67d3;
+  4711:                                                               background: #8b67d3;
+  4874:                                                         border-color: #8b67d3;
+  4882:                                                         border-color: #8b67d3;
+  4917:                                                       color: #8b67d3 !important;
+  4919:                                                       border-color: #8b67d3;
+  4920:                                                       --border-color: #8b67d3;
+  4928:                                                       background: #8b67d3;
+  5025:                                                               --hover-color: #8b67d3;
+  5113:                                                               --hover-color: #8b67d3;
+  5201:                                                               --hover-color: #8b67d3;
+  5404:                                                         border-color: #8b67d3;
+  5412:                                                         border-color: #8b67d3;
+  5447:                                                       color: #8b67d3 !important;
+  5449:                                                       border-color: #8b67d3;
+  5450:                                                       --border-color: #8b67d3;
+  5458:                                                       background: #8b67d3;
+  5519:                                                         border-color: #8b67d3;
+  5527:                                                         border-color: #8b67d3;
+  5551:                                                               --hover-color: #8b67d3;
+  5600:                                                               --hover-color: #8b67d3;
+  5648:                                                       color: #8b67d3 !important;
+  5650:                                                       border-color: #8b67d3;
+  5651:                                                       --border-color: #8b67d3;
+  5659:                                                       background: #8b67d3;
+  5908:                                                         border-color: #8b67d3;
+  5916:                                                         border-color: #8b67d3;
+  5947:                                                       color: #8b67d3 !important;
+  5949:                                                       border-color: #8b67d3;
+  5950:                                                       --border-color: #8b67d3;
+  5958:                                                       background: #8b67d3;
+  6019:                                                         border-color: #8b67d3;
+  6027:                                                         border-color: #8b67d3;
+  6051:                                                               --hover-color: #8b67d3;
+  6109:                                                               --hover-color: #8b67d3;
+  6157:                                                       color: #8b67d3 !important;
+  6159:                                                       border-color: #8b67d3;
+  6160:                                                       --border-color: #8b67d3;
+  6168:                                                       background: #8b67d3;
+  6243:                                                                 border-color: #8b67d3;
+  6251:                                                                 border-color: #8b67d3;
+  6382:                                                         border-color: #8b67d3;
+  6390:                                                         border-color: #8b67d3;
+  6421:                                                       color: #8b67d3 !important;
+  6423:                                                       border-color: #8b67d3;
+  6424:                                                       --border-color: #8b67d3;
+  6432:                                                       background: #8b67d3;
+  6493:                                                         border-color: #8b67d3;
+  6501:                                                         border-color: #8b67d3;
+  6525:                                                               --hover-color: #8b67d3;
+  6572:                                                               --hover-color: #8b67d3;
+  6735:                                                         border-color: #8b67d3;
+  6743:                                                         border-color: #8b67d3;
+  6847:                                                               color: #8b67d3 !important;
+  6849:                                                               border-color: #8b67d3;
+  6850:                                                               --border-color: #8b67d3;
+  6858:                                                               background: #8b67d3;
+  6896:                                                               color: #8b67d3 !important;
+  6898:                                                               border-color: #8b67d3;
+  6899:                                                               --border-color: #8b67d3;
+  6907:                                                               background: #8b67d3;
+  7068:                                                         border-color: #8b67d3;
+  7076:                                                         border-color: #8b67d3;
+  7111:                                                       color: #8b67d3 !important;
+  7113:                                                       border-color: #8b67d3;
+  7114:                                                       --border-color: #8b67d3;
+  7122:                                                       background: #8b67d3;
+  7219:                                                               --hover-color: #8b67d3;
+  7307:                                                               --hover-color: #8b67d3;
+  7395:                                                               --hover-color: #8b67d3;
+  7678:                                           ><span style="color: #8b67d3"
+  7682:                                         <span style="color: #8b67d3"
+  7684:                                             style="color: #8b67d3"
+  7727:                                           ><span style="color: #8b67d3"
+  7731:                                         <span style="color: #8b67d3"
+  7733:                                             style="color: #8b67d3"
+  7775:                                           ><span style="color: #8b67d3"
+  7779:                                         <span style="color: #8b67d3"
+  7781:                                             style="color: #8b67d3"
+  7827:                                   ><span style="color: #8b67d3"
+  7831:                                   <span style="color: #8b67d3"
+  7852:                                   ><span style="color: #8b67d3"
+  7871:                                   ><span style="color: #8b67d3"
+  7875:                                   ><span style="color: #8b67d3">Team</span></span
+  7960:                                           ><span style="color: #8b67d3"
+  7964:                                         <span style="color: #8b67d3"
+  7966:                                             style="color: #8b67d3"
+  8017:                                           ><span style="color: #8b67d3"
+  8021:                                         <span style="color: #8b67d3"
+  8023:                                             style="color: #8b67d3"
+  8074:                                           ><span style="color: #8b67d3"
+  8078:                                         <span style="color: #8b67d3"
+  8080:                                             style="color: #8b67d3"
+  8875:                                 --hover-color: #8b67d3;
+  8939:                                 --hover-color: #8b67d3;
+  9003:                                 --hover-color: #8b67d3;
+  9061:                                         --border-color: #8b67d3;
+  9069:                                         background: #8b67d3;
+  9107:                                         --border-color: #8b67d3;
+  9115:                                         background: #8b67d3;
+  9207:                                         --hover-color: #8b67d3;
+  9266:                                         --hover-color: #8b67d3;
+  9337:                                         --border-color: #8b67d3;
+  9345:                                         background: #8b67d3;
+  9383:                                         --border-color: #8b67d3;
+  9391:                                         background: #8b67d3;
+  9420:                     data-bg-color="#8b67d3"
+
+images\farm-bg-6-01.svg:
+   6: 	.st0{fill:#8b67d3;}
+  64: 	.st58{fill:#8b67d3;}
+
+images\M-Menu-Icon-v5-03.svg:
+  6: 	.st0{fill:#8b67d3;}
